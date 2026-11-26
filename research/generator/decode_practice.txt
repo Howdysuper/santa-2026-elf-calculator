@@ -1,0 +1,1 @@
+practice_0001 multiplicative nt 30 expl 4 {'L1': 3, 'AFF': 1} atoms [528529, 12684696] est {'total': 160, 'atoms': 5, 'monos': 0, 'consts': 10, 'per_target': 7, 'unexpl': 138} best None

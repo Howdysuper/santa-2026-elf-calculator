@@ -1,0 +1,30 @@
+scored_0168 None nt 31 expl 21 {'L2': 18, 'L1': 3} 
+scored_0837 None nt 32 expl 14 {'L2': 11, 'L1': 3} 
+scored_0986 None nt 30 expl 9 {'L1': 5, 'L2': 4} 
+scored_0514 None nt 29 expl 21 {'L2': 14, 'L1': 7} 
+scored_0865 None nt 32 expl 5 {'L2': 4, 'L1': 1} 
+scored_0635 None nt 10 expl 0 {} 
+scored_0664 None nt 29 expl 10 {'L2': 5, 'L1': 5} 
+scored_0780 None nt 30 expl 12 {'L1': 4, 'L2': 8} 
+scored_0381 None nt 28 expl 13 {'L2': 7, 'L1': 6} 
+scored_0784 None nt 30 expl 8 {'L1': 4, 'L2': 4} 
+scored_0057 None nt 30 expl 10 {'L1': 4, 'L2': 6} 
+scored_0981 None nt 7 expl 3 {'L1': 1, 'AFF': 2} 
+scored_0541 None nt 10 expl 1 {'L1': 1} 
+scored_0155 None nt 31 expl 19 {'L2': 16, 'L1': 3} 
+scored_0977 None nt 28 expl 5 {'L1': 3, 'L2': 2} 
+scored_0610 None nt 31 expl 11 {'L2': 9, 'L1': 2} 
+scored_0167 None nt 29 expl 15 {'L2': 10, 'L1': 5} 
+scored_0209 None nt 31 expl 14 {'L2': 10, 'L1': 4} 
+scored_0253 None nt 17 expl 1 {'L1': 1} 
+scored_0719 None nt 29 expl 10 {'L2': 7, 'L1': 3} 
+scored_0813 None nt 30 expl 18 {'L2': 17, 'L1': 1} 
+scored_0905 None nt 32 expl 9 {'L2': 4, 'L1': 5} 
+scored_0677 None nt 31 expl 10 {'L1': 2, 'L2': 8} 
+scored_0808 None nt 28 expl 8 {'L2': 6, 'L1': 2} 
+scored_0098 None nt 32 expl 6 {'L1': 6} 
+scored_0315 None nt 32 expl 10 {'L2': 7, 'L1': 3} 
+scored_0273 None nt 32 expl 5 {'L1': 5} 
+scored_0023 None nt 28 expl 15 {'L2': 10, 'L1': 5} 
+scored_0729 None nt 32 expl 15 {'L2': 11, 'L1': 4} 
+scored_0207 None nt 31 expl 22 {'L2': 16, 'L1': 6} 
