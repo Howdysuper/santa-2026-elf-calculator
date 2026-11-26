@@ -1,0 +1,38 @@
+11-19 22:01 WAITING: elf-calc-search-2=RUNNING elf-calc-search-5=RUNNING | done: elf-calc-search-1 elf-calc-search-3 elf-calc-search-4
+11-19 22:21 WAITING: elf-calc-search-5=RUNNING | done: elf-calc-search-1 elf-calc-search-2 elf-calc-search-3 elf-calc-search-4
+11-19 23:03 WAITING: elf-calc-search-5=RUNNING | done: elf-calc-search-1 elf-calc-search-2 elf-calc-search-3 elf-calc-search-4
+11-20 00:02 WAITING: elf-calc-search-5=RUNNING | done: elf-calc-search-1 elf-calc-search-2 elf-calc-search-3 elf-calc-search-4
+11-20 01:03 ALL 5 FINISHED: elf-calc-search-1=COMPLETE elf-calc-search-2=COMPLETE elf-calc-search-3=COMPLETE elf-calc-search-4=COMPLETE elf-calc-search-5=COMPLETE
+11-20 01:03 using existing download elf-calc-search-1_1120_0329
+11-20 01:03 using existing download elf-calc-search-2_1120_0412
+11-20 01:03 using existing download elf-calc-search-3_1120_0351
+11-20 01:03 using existing download elf-calc-search-4_1120_0401
+11-20 01:03 using existing download elf-calc-search-5_1120_0625
+11-20 01:03 compare: 1531 rows read, 0 invalid, 2 strictly shorter than the store on 2 ids, total gain 2
+11-20 01:03 import: C:\Users\shaur\Kaggle ML\competitions\santa-2026\work\kaggle_out\elf-calc-search-1_1120_0329\out_1.txt: gain 0; store total 135828
+11-20 01:03 import: C:\Users\shaur\Kaggle ML\competitions\santa-2026\work\kaggle_out\elf-calc-search-2_1120_0412\out_2.txt: gain 0; store total 135828
+11-20 01:03 import: C:\Users\shaur\Kaggle ML\competitions\santa-2026\work\kaggle_out\elf-calc-search-3_1120_0351\out_3.txt: gain 0; store total 135828
+11-20 01:03 import: C:\Users\shaur\Kaggle ML\competitions\santa-2026\work\kaggle_out\elf-calc-search-4_1120_0401\out_0.txt: gain 0; store total 135828
+11-20 01:03 import: C:\Users\shaur\Kaggle ML\competitions\santa-2026\work\kaggle_out\elf-calc-search-5_1120_0625\out_c.txt: gain 2; store total 135826
+11-20 01:03 submit: store 135826, last submitted 135828
+11-20 01:03 submit: wrote 23_kaggle_search_batch_135826.csv
+11-20 01:03 submit: ['Submission scored. Public score: 135826', 'Successfully submitted to Santa 2026 - The Elf Calculator']
+11-20 01:03 last_submitted now: 135826 23_kaggle_search_batch_135826.csv
+11-20 01:04 kcpsat: 11-20 01:04 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 01:05 kcpsat: 11-20 01:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 01:06 kcpsat: 11-20 01:06 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:06 kcpsat: 11-20 01:06 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:07 kfresh: 11-20 01:07 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 01:07 kfresh: 11-20 01:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 01:07 kfresh: 11-20 01:07 dataset version ready (lastUpdated >= 07:05:46 UTC)
+11-20 01:08 kfresh: 11-20 01:08 pushed elf-calc-fresh-3: 70 rows (changed 2), seed 7910  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:08 kfresh: 11-20 01:08 pushed elf-calc-fresh-4: 70 rows (changed 2), seed 95715 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:08 kfresh: 11-20 01:08 no kernel pushed: snapshot not advanced
+11-20 01:08 BATCH COMPLETE
+11-20 02:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 03:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 06:21 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 07:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 08:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 09:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv
+11-20 10:02 ALREADY DONE: done 11-20 01:08; last_submitted 135826 23_kaggle_search_batch_135826.csv

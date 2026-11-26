@@ -1,0 +1,167 @@
+11-19 23:35 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-19 23:35 dataset: Your private Dataset is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-19 23:36 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 00:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 00:03 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 00:04 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:04 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 01:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 01:06 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:06 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:09 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 01:10 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 01:10 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:10 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 02:03 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 02:03 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 02:04 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 02:04 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 03:03 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 03:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 03:04 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 03:05 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:22 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 06:27 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 06:28 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-20 06:28 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-20 06:28 batch CPU busy 2, free cpsat slugs: 
+11-20 07:02 batch CPU busy 2, free cpsat slugs: 
+11-20 08:03 batch CPU busy 2, free cpsat slugs: 
+11-20 09:02 batch CPU busy 2, free cpsat slugs: 
+11-20 10:02 batch CPU busy 2, free cpsat slugs: 
+11-20 11:02 batch CPU busy 2, free cpsat slugs: 
+11-20 12:03 batch CPU busy 2, free cpsat slugs: 
+11-20 13:03 batch CPU busy 2, free cpsat slugs: 
+11-20 14:03 batch CPU busy 2, free cpsat slugs: 
+11-20 15:03 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1120_2103 : data src work elf-calc-cpsat-0.log ids.txt out_cpsat_lns.txt
+11-20 15:03 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1120_2103 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-20 15:03 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 15:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 15:05 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-20 15:05 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-20 17:03 batch CPU busy 2, free cpsat slugs: 
+11-20 20:02 batch CPU busy 3, free cpsat slugs: 
+11-20 21:02 batch CPU busy 4, free cpsat slugs: 
+11-20 23:24 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1121_0524 : data src work elf-calc-cpsat-0.log ids.txt out_cpsat_lns.txt
+11-20 23:24 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1121_0524 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-20 23:24 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-20 23:27 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-20 23:28 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-20 23:28 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-21 00:03 batch CPU busy 5, free cpsat slugs: 
+11-21 00:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 01:02 batch CPU busy 5, free cpsat slugs: 
+11-21 01:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 02:02 batch CPU busy 5, free cpsat slugs: 
+11-21 02:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 03:02 batch CPU busy 4, free cpsat slugs: 
+11-21 03:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 04:02 batch CPU busy 3, free cpsat slugs: 
+11-21 04:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 05:02 batch CPU busy 5, free cpsat slugs: 
+11-21 05:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 06:03 batch CPU busy 5, free cpsat slugs: 
+11-21 06:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 07:03 batch CPU busy 5, free cpsat slugs: 
+11-21 07:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 08:03 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1121_1403 : data src work elf-calc-cpsat-0.log ids.txt out_cpsat_lns.txt
+11-21 08:03 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1121_1403 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-21 08:03 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 08:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 09:09 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 09:09 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 10:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 10:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 11:02 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 11:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 13:26 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 13:26 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 14:02 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 14:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 15:03 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 15:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 16:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 16:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 17:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 17:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 19:33 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 19:33 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 19:33 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 19:33 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 20:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 20:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 21:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 21:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 22:05 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 22:05 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-21 23:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-21 23:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-22 20:37 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-22 20:37 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-22 21:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-22 21:03 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-23 14:31 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 14:31 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-23 14:31 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 14:31 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-23 15:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 15:02 pushes paused (kaggle/fresh_state/cpsat_nopush.txt): pull only
+11-23 15:57 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 16:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 17:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 18:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 19:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 20:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 21:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 22:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-23 23:02 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-24 00:03 batch CPU busy 5, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-24 01:03 batch CPU busy 3, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-24 01:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-24 01:04 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-24 01:04 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-24 02:03 batch CPU busy 2, free cpsat slugs: 
+11-24 03:03 batch CPU busy 5, free cpsat slugs: 
+11-24 04:03 batch CPU busy 5, free cpsat slugs: 
+11-24 05:03 batch CPU busy 5, free cpsat slugs: 
+11-24 06:03 batch CPU busy 5, free cpsat slugs: 
+11-24 07:03 batch CPU busy 5, free cpsat slugs: 
+11-24 08:03 batch CPU busy 5, free cpsat slugs: 
+11-24 09:03 batch CPU busy 4, free cpsat slugs: 
+11-24 10:03 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1124_1603 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-24 10:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-1
+11-24 10:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-24 10:08 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-24 11:03 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1124_1703 : data src work elf-calc-cpsat-0.log ids.txt out_cpsat_lns.txt
+11-24 11:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-0
+11-24 11:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-24 11:06 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-24 12:03 batch CPU busy 5, free cpsat slugs: 
+11-24 13:03 batch CPU busy 5, free cpsat slugs: 
+11-24 14:03 batch CPU busy 5, free cpsat slugs: 
+11-24 14:08 batch CPU busy 5, free cpsat slugs: 
+11-24 15:03 batch CPU busy 5, free cpsat slugs: 
+11-24 16:02 batch CPU busy 4, free cpsat slugs: 
+11-24 17:02 batch CPU busy 5, free cpsat slugs: 
+11-24 18:02 batch CPU busy 5, free cpsat slugs: 
+11-24 19:03 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1125_0103 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-24 19:03 batch CPU busy 4, free cpsat slugs: elf-calc-cpsat-1
+11-24 19:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-24 19:06 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-24 20:02 batch CPU busy 5, free cpsat slugs: 
+11-24 21:03 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1125_0303 : data src work elf-calc-cpsat-0.log ids.txt out_cpsat_lns.txt
+11-24 21:03 batch CPU busy 2, free cpsat slugs: elf-calc-cpsat-0
+11-24 21:10 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-24 21:11 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-24 22:03 batch CPU busy 5, free cpsat slugs: 
+11-25 12:35 pulled elf-calc-cpsat-0 -> work\kaggle_out\elf-calc-cpsat-0_1125_1834 : 
+11-25 13:19 pulled elf-calc-cpsat-1 -> work\kaggle_out\elf-calc-cpsat-1_1125_1919 : data src work elf-calc-cpsat-1.log ids.txt out_cpsat_lns.txt
+11-25 13:19 batch CPU busy 0, free cpsat slugs: elf-calc-cpsat-0 elf-calc-cpsat-1
+11-25 13:27 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-cpsat-inputs
+11-25 13:27 pushed elf-calc-cpsat-0 (part 0 of 2) -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-0
+11-25 13:27 pushed elf-calc-cpsat-1 (part 1 of 2) -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-cpsat-1
+11-25 13:33 batch CPU busy 5, free cpsat slugs: 
+11-25 14:02 batch CPU busy 5, free cpsat slugs: 
+11-25 15:02 batch CPU busy 5, free cpsat slugs: 
+11-25 16:03 batch CPU busy 5, free cpsat slugs: 
+11-25 17:03 batch CPU busy 5, free cpsat slugs: 

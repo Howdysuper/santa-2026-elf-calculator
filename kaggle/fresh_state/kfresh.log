@@ -1,0 +1,520 @@
+11-19 20:09 kernels busy 5, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-19 22:02 pulled elf-calc-search-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-search-1_1120_0402 : elf-calc-search-1.log lns out_1.txt p.txt
+11-19 22:02 pulled elf-calc-search-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-search-3_1120_0402 : elf-calc-search-3.log lns out_3.txt p.txt
+11-19 22:02 pulled elf-calc-search-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-search-4_1120_0402 : elf-calc-search-4.log lns out_0.txt p.txt
+11-19 22:02 kernels busy 2, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-19 22:02 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-19 22:05 pushed elf-calc-fresh-0: 92 rows (changed 274), seed 28207  -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-19 22:05 pushed elf-calc-fresh-1: 91 rows (changed 274), seed 34695 CUTPROB="25", WMAX="5",  -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-19 22:05 pushed elf-calc-fresh-2: 91 rows (changed 274), seed 4155  -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-19 22:16 kernels busy 4, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-19 22:16 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-19 22:17 dataset version ready (lastUpdated >= 04:15:14 UTC)
+11-19 22:17 pushed elf-calc-fresh-3: 70 rows (changed 0), seed 12136  -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-19 23:05 pulled elf-calc-fresh-3 ("KernelWorkerStatus.CANCEL_ACKNOWLEDGED") -> work\kaggle_out\elf-calc-fresh-3_1120_0505 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-19 23:06 kernels busy 4, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-19 23:17 kernels busy 4, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-19 23:17 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-19 23:18 dataset version ready (lastUpdated >= 05:16:00 UTC)
+11-19 23:19 pushed elf-calc-fresh-3: 70 rows (changed 59), seed 99987  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 00:04 pulled elf-calc-fresh-3 ("KernelWorkerStatus.CANCEL_ACKNOWLEDGED") -> work\kaggle_out\elf-calc-fresh-3_1120_0604 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-20 00:04 kernels busy 4, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 00:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 00:05 dataset version ready (lastUpdated >= 06:03:20 UTC)
+11-20 00:05 pushed elf-calc-fresh-3: 70 rows (changed 0), seed 93990  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 00:05 no kernel pushed: snapshot not advanced
+11-20 01:07 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 01:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 01:07 dataset version ready (lastUpdated >= 07:05:46 UTC)
+11-20 01:08 pushed elf-calc-fresh-3: 70 rows (changed 2), seed 7910  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:08 pushed elf-calc-fresh-4: 70 rows (changed 2), seed 95715 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:08 no kernel pushed: snapshot not advanced
+11-20 01:11 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 01:11 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 01:12 dataset version ready (lastUpdated >= 07:09:59 UTC)
+11-20 01:12 pushed elf-calc-fresh-3: 70 rows (changed 2), seed 86627  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:12 pushed elf-calc-fresh-4: 70 rows (changed 2), seed 31260 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 01:12 no kernel pushed: snapshot not advanced
+11-20 02:04 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 02:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 02:05 dataset version ready (lastUpdated >= 08:03:01 UTC)
+11-20 02:05 pushed elf-calc-fresh-3: 70 rows (changed 46), seed 4783  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 02:05 pushed elf-calc-fresh-4: 70 rows (changed 46), seed 68415 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 02:05 no kernel pushed: snapshot not advanced
+11-20 03:06 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 03:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 03:06 dataset version ready (lastUpdated >= 09:04:33 UTC)
+11-20 03:06 pushed elf-calc-fresh-3: 70 rows (changed 46), seed 62216  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 03:06 pushed elf-calc-fresh-4: 70 rows (changed 46), seed 25785 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 03:06 no kernel pushed: snapshot not advanced
+11-20 06:29 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1120_1228 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-20 06:29 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1120_1229 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-20 06:29 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1120_1229 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-20 06:29 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 06:29 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 06:29 dataset version ready (lastUpdated >= 12:27:57 UTC)
+11-20 06:30 pushed elf-calc-fresh-0: 102 rows (changed 507), seed 43547  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:30 pushed elf-calc-fresh-1: 102 rows (changed 507), seed 37040 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:30 pushed elf-calc-fresh-2: 101 rows (changed 507), seed 85640  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:30 pushed elf-calc-fresh-3: 101 rows (changed 507), seed 77260 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:30 pushed elf-calc-fresh-4: 101 rows (changed 507), seed 72721  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 06:30 no kernel pushed: snapshot not advanced
+11-20 07:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 07:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 07:05 dataset version ready (lastUpdated >= 13:03:10 UTC)
+11-20 07:05 pushed elf-calc-fresh-0: 102 rows (changed 508), seed 32980  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 07:05 pushed elf-calc-fresh-1: 102 rows (changed 508), seed 59010 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 07:05 pushed elf-calc-fresh-2: 102 rows (changed 508), seed 61361  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 07:05 pushed elf-calc-fresh-3: 101 rows (changed 508), seed 97177 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 07:05 pushed elf-calc-fresh-4: 101 rows (changed 508), seed 71733  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 07:05 no kernel pushed: snapshot not advanced
+11-20 08:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 08:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 08:05 dataset version ready (lastUpdated >= 14:03:10 UTC)
+11-20 08:05 pushed elf-calc-fresh-0: 109 rows (changed 541), seed 30923  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 08:05 pushed elf-calc-fresh-1: 108 rows (changed 541), seed 20811 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 08:05 pushed elf-calc-fresh-2: 108 rows (changed 541), seed 81038  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 08:05 pushed elf-calc-fresh-3: 108 rows (changed 541), seed 38884 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 08:05 pushed elf-calc-fresh-4: 108 rows (changed 541), seed 48763  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 08:05 no kernel pushed: snapshot not advanced
+11-20 09:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 09:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 09:04 dataset version ready (lastUpdated >= 15:02:39 UTC)
+11-20 09:04 pushed elf-calc-fresh-0: 115 rows (changed 573), seed 93722  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 09:04 pushed elf-calc-fresh-1: 115 rows (changed 573), seed 14944 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 09:04 pushed elf-calc-fresh-2: 115 rows (changed 573), seed 68277  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 09:04 pushed elf-calc-fresh-3: 114 rows (changed 573), seed 98833 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 09:04 pushed elf-calc-fresh-4: 114 rows (changed 573), seed 84410  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 09:04 no kernel pushed: snapshot not advanced
+11-20 10:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 10:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 10:05 dataset version ready (lastUpdated >= 16:03:21 UTC)
+11-20 10:05 pushed elf-calc-fresh-0: 121 rows (changed 601), seed 30594  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 10:05 pushed elf-calc-fresh-1: 120 rows (changed 601), seed 62919 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 10:05 pushed elf-calc-fresh-2: 120 rows (changed 601), seed 17095  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 10:05 pushed elf-calc-fresh-3: 120 rows (changed 601), seed 34632 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 10:05 pushed elf-calc-fresh-4: 120 rows (changed 601), seed 71629  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 10:05 no kernel pushed: snapshot not advanced
+11-20 11:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 11:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 11:05 dataset version ready (lastUpdated >= 17:03:38 UTC)
+11-20 11:05 pushed elf-calc-fresh-0: 123 rows (changed 614), seed 21151  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 11:05 pushed elf-calc-fresh-1: 123 rows (changed 614), seed 67156 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 11:05 pushed elf-calc-fresh-2: 123 rows (changed 614), seed 20271  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 11:05 pushed elf-calc-fresh-3: 123 rows (changed 614), seed 54038 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 11:05 pushed elf-calc-fresh-4: 122 rows (changed 614), seed 60176  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 11:05 no kernel pushed: snapshot not advanced
+11-20 12:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 12:10 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 12:10 dataset version ready (lastUpdated >= 18:08:42 UTC)
+11-20 12:10 pushed elf-calc-fresh-0: 124 rows (changed 618), seed 13183  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 12:10 pushed elf-calc-fresh-1: 124 rows (changed 618), seed 19734 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 12:10 pushed elf-calc-fresh-2: 124 rows (changed 618), seed 25771  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 12:10 pushed elf-calc-fresh-3: 123 rows (changed 618), seed 33736 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 12:10 pushed elf-calc-fresh-4: 123 rows (changed 618), seed 34528  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 12:10 no kernel pushed: snapshot not advanced
+11-20 13:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 13:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 13:05 dataset version ready (lastUpdated >= 19:03:43 UTC)
+11-20 13:05 pushed elf-calc-fresh-0: 125 rows (changed 622), seed 82976  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 13:05 pushed elf-calc-fresh-1: 125 rows (changed 622), seed 77841 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 13:05 pushed elf-calc-fresh-2: 124 rows (changed 622), seed 87426  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 13:05 pushed elf-calc-fresh-3: 124 rows (changed 622), seed 43695 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 13:05 pushed elf-calc-fresh-4: 124 rows (changed 622), seed 61150  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 13:05 no kernel pushed: snapshot not advanced
+11-20 14:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 14:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 14:05 dataset version ready (lastUpdated >= 20:03:42 UTC)
+11-20 14:05 pushed elf-calc-fresh-0: 126 rows (changed 626), seed 93645  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 14:05 pushed elf-calc-fresh-1: 125 rows (changed 626), seed 17633 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 14:05 pushed elf-calc-fresh-2: 125 rows (changed 626), seed 87552  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 14:05 pushed elf-calc-fresh-3: 125 rows (changed 626), seed 5824 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 14:05 pushed elf-calc-fresh-4: 125 rows (changed 626), seed 21675  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 14:05 no kernel pushed: snapshot not advanced
+11-20 15:06 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 15:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 15:07 dataset version ready (lastUpdated >= 21:05:22 UTC)
+11-20 15:07 pushed elf-calc-fresh-0: 126 rows (changed 630), seed 10489  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 15:07 pushed elf-calc-fresh-1: 126 rows (changed 630), seed 22679 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 15:07 pushed elf-calc-fresh-2: 126 rows (changed 630), seed 75359  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 15:07 pushed elf-calc-fresh-3: 126 rows (changed 630), seed 65004 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 15:07 pushed elf-calc-fresh-4: 126 rows (changed 630), seed 10416  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 15:07 no kernel pushed: snapshot not advanced
+11-20 17:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 17:09 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 17:09 dataset version ready (lastUpdated >= 23:07:43 UTC)
+11-20 17:09 pushed elf-calc-fresh-0: 128 rows (changed 637), seed 57846  -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-20 17:09 pushed elf-calc-fresh-1: 128 rows (changed 637), seed 36721 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 17:09 pushed elf-calc-fresh-2: 127 rows (changed 637), seed 70854  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 17:09 pushed elf-calc-fresh-3: 127 rows (changed 637), seed 18921 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 17:09 pushed elf-calc-fresh-4: 127 rows (changed 637), seed 23890  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 20:03 kernels busy 1, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 20:10 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 20:11 dataset version ready (lastUpdated >= 02:09:03 UTC)
+11-20 20:11 pushed elf-calc-fresh-1: 70 rows (changed 57), seed 39658  -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-20 20:11 pushed elf-calc-fresh-2: 70 rows (changed 57), seed 60161 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 20:11 pushed elf-calc-fresh-3: 70 rows (changed 57), seed 12839  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 20:11 pushed elf-calc-fresh-4: 70 rows (changed 57), seed 48526 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 21:03 kernels busy 2, free fresh slugs: elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-20 21:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 21:05 dataset version ready (lastUpdated >= 03:03:05 UTC)
+11-20 21:05 pushed elf-calc-fresh-2: 70 rows (changed 17), seed 4047  -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-20 21:05 pushed elf-calc-fresh-3: 70 rows (changed 17), seed 93018 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 21:05 pushed elf-calc-fresh-4: 70 rows (changed 17), seed 65051  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 23:28 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-20 23:29 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-20 23:30 dataset version ready (lastUpdated >= 05:28:09 UTC)
+11-20 23:30 pushed elf-calc-fresh-3: 223 rows (changed 445), seed 76909  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 23:30 pushed elf-calc-fresh-4: 222 rows (changed 445), seed 23493 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-20 23:30 no kernel pushed: snapshot not advanced
+11-21 00:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 00:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 00:06 dataset version ready (lastUpdated >= 06:04:39 UTC)
+11-21 00:06 pushed elf-calc-fresh-3: 225 rows (changed 450), seed 32521  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 00:06 pushed elf-calc-fresh-4: 225 rows (changed 450), seed 75904 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 00:06 no kernel pushed: snapshot not advanced
+11-21 01:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 01:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 01:05 dataset version ready (lastUpdated >= 07:03:45 UTC)
+11-21 01:05 pushed elf-calc-fresh-3: 269 rows (changed 538), seed 62172  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 01:05 pushed elf-calc-fresh-4: 269 rows (changed 538), seed 88320 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 01:05 no kernel pushed: snapshot not advanced
+11-21 02:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 02:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 02:05 dataset version ready (lastUpdated >= 08:03:28 UTC)
+11-21 02:05 pushed elf-calc-fresh-3: 273 rows (changed 546), seed 26192  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 02:05 pushed elf-calc-fresh-4: 273 rows (changed 546), seed 96885 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 02:05 no kernel pushed: snapshot not advanced
+11-21 03:03 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1121_0903 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-21 03:03 kernels busy 2, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-3 elf-calc-fresh-4
+11-21 03:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 03:05 dataset version ready (lastUpdated >= 09:03:12 UTC)
+11-21 03:05 pushed elf-calc-fresh-1: 184 rows (changed 550), seed 12088  -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-21 03:05 pushed elf-calc-fresh-3: 183 rows (changed 550), seed 63397 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 03:05 pushed elf-calc-fresh-4: 183 rows (changed 550), seed 28267  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 04:03 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1121_1003 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-21 04:03 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1121_1003 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-21 04:03 kernels busy 1, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-21 04:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 04:05 dataset version ready (lastUpdated >= 10:03:53 UTC)
+11-21 04:05 pushed elf-calc-fresh-0: 70 rows (changed 30), seed 68426  -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-21 04:05 pushed elf-calc-fresh-2: 70 rows (changed 30), seed 20325 CUTPROB="25", WMAX="5",  -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-21 04:05 pushed elf-calc-fresh-3: 70 rows (changed 30), seed 15079  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 04:05 pushed elf-calc-fresh-4: 70 rows (changed 30), seed 91186 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 05:02 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 05:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 05:05 dataset version ready (lastUpdated >= 11:03:30 UTC)
+11-21 05:05 pushed elf-calc-fresh-3: 70 rows (changed 17), seed 69847  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 05:05 pushed elf-calc-fresh-4: 70 rows (changed 17), seed 68918 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 05:05 no kernel pushed: snapshot not advanced
+11-21 06:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 06:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 06:05 dataset version ready (lastUpdated >= 12:03:29 UTC)
+11-21 06:05 pushed elf-calc-fresh-3: 70 rows (changed 22), seed 26434  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 06:05 pushed elf-calc-fresh-4: 70 rows (changed 22), seed 13126 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 06:05 no kernel pushed: snapshot not advanced
+11-21 07:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 07:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 07:06 dataset version ready (lastUpdated >= 13:04:10 UTC)
+11-21 07:06 pushed elf-calc-fresh-3: 70 rows (changed 41), seed 86677  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 07:06 pushed elf-calc-fresh-4: 70 rows (changed 41), seed 97995 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 07:06 no kernel pushed: snapshot not advanced
+11-21 08:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 08:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 08:06 dataset version ready (lastUpdated >= 14:04:11 UTC)
+11-21 08:06 pushed elf-calc-fresh-3: 70 rows (changed 58), seed 34828  -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-21 08:06 pushed elf-calc-fresh-4: 70 rows (changed 58), seed 1543 CUTPROB="25", WMAX="5",  -> Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-21 09:09 kernels busy 5, free fresh slugs: 
+11-21 10:03 kernels busy 5, free fresh slugs: 
+11-21 11:02 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1121_1702 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-21 11:03 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1121_1703 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-21 11:03 kernels busy 3, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-2
+11-21 11:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 11:04 dataset version ready (lastUpdated >= 17:02:58 UTC)
+11-21 11:05 pushed elf-calc-fresh-0: 70 rows (changed 51), seed 2195  -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-21 11:05 pushed elf-calc-fresh-2: 70 rows (changed 51), seed 33986 CUTPROB="25", WMAX="5",  -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-21 13:26 kernels busy 5, free fresh slugs: 
+11-21 14:03 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1121_2003 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-21 14:03 kernels busy 4, free fresh slugs: elf-calc-fresh-1
+11-21 14:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 14:05 dataset version ready (lastUpdated >= 20:03:21 UTC)
+11-21 14:05 pushed elf-calc-fresh-1: 70 rows (changed 35), seed 90145  -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-21 15:04 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1121_2104 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-21 15:04 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1121_2104 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-21 15:04 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 15:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 15:06 dataset version ready (lastUpdated >= 21:04:53 UTC)
+11-21 15:07 pushed elf-calc-fresh-3: 70 rows (changed 8), seed 49443  -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-21 15:07 pushed elf-calc-fresh-4: 70 rows (changed 8), seed 87804 CUTPROB="25", WMAX="5",  -> Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-21 16:04 kernels busy 5, free fresh slugs: 
+11-21 17:04 kernels busy 5, free fresh slugs: 
+11-21 19:34 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1122_0134 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-21 19:34 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1122_0134 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-21 19:34 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1122_0134 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-21 19:34 kernels busy 3, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-2
+11-21 19:34 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1122_0134 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-21 19:35 kernels busy 3, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-2
+11-21 19:37 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 19:37 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 19:38 dataset version ready (lastUpdated >= 01:36:01 UTC)
+11-21 19:38 dataset version ready (lastUpdated >= 01:36:03 UTC)
+11-21 19:38 pushed elf-calc-fresh-0: 70 rows (changed 29), seed 50431  -> 409 Client Error: Conflict for url: https://api.kaggle.com/v1/kernels.KernelsApiService/SaveKernel
+11-21 19:38 pushed elf-calc-fresh-0: 70 rows (changed 29), seed 22063  -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-21 19:38 pushed elf-calc-fresh-2: 70 rows (changed 29), seed 28846 CUTPROB="25", WMAX="5",  -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-21 19:38 pushed elf-calc-fresh-2: 70 rows (changed 29), seed 69044 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-21 20:04 pulled elf-calc-fresh-0 ("KernelWorkerStatus.ERROR") -> work\kaggle_out\elf-calc-fresh-0_1122_0204 : elf-calc-fresh-0.log
+11-21 20:04 kernels busy 4, free fresh slugs: elf-calc-fresh-0
+11-21 20:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 20:05 dataset version ready (lastUpdated >= 02:03:51 UTC)
+11-21 20:05 pushed elf-calc-fresh-0: 70 rows (changed 0), seed 24661  -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-21 21:03 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1122_0303 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-21 21:03 kernels busy 4, free fresh slugs: elf-calc-fresh-1
+11-21 21:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 21:05 dataset version ready (lastUpdated >= 03:03:29 UTC)
+11-21 21:05 pushed elf-calc-fresh-1: 70 rows (changed 4), seed 11578  -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-21 22:06 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1122_0406 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-21 22:06 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1122_0406 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-21 22:06 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-21 22:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-21 22:08 dataset version ready (lastUpdated >= 04:06:06 UTC)
+11-21 22:08 pushed elf-calc-fresh-3: 70 rows (changed 11), seed 30300  -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-21 22:08 pushed elf-calc-fresh-4: 70 rows (changed 11), seed 56039 CUTPROB="25", WMAX="5",  -> Kernel version 3 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-21 23:04 kernels busy 5, free fresh slugs: 
+11-22 20:38 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1123_0238 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-22 20:38 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1123_0238 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-22 20:38 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1123_0238 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-22 20:38 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1123_0238 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-22 20:38 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1123_0238 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-22 20:38 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-22 20:44 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-22 20:45 dataset version ready (lastUpdated >= 02:43:03 UTC)
+11-22 20:45 pushed elf-calc-fresh-0: 70 rows (changed 316), seed 48676  -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-22 20:45 pushed elf-calc-fresh-1: 70 rows (changed 316), seed 30612 CUTPROB="25", WMAX="5",  -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-22 20:45 pushed elf-calc-fresh-2: 70 rows (changed 316), seed 53535  -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-22 20:45 pushed elf-calc-fresh-3: 70 rows (changed 316), seed 78419 CUTPROB="25", WMAX="5",  -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-22 20:45 pushed elf-calc-fresh-4: 70 rows (changed 316), seed 11878  -> Kernel version 4 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-22 21:03 kernels busy 5, free fresh slugs: 
+11-23 14:32 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1123_2032 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1123_2032 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1123_2032 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1123_2032 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1123_2032 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1123_2032 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1123_2032 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1123_2032 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-23 14:32 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1123_2032 : 
+11-23 14:32 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-23 14:32 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1123_2032 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-23 14:32 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-23 14:40 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-23 14:40 dataset version ready (lastUpdated >= 20:38:48 UTC)
+11-23 14:40 pushed elf-calc-fresh-0: 125 rows (changed 623), seed 96598  -> Kernel version 8 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-23 14:40 pushed elf-calc-fresh-1: 125 rows (changed 623), seed 30700 CUTPROB="25", WMAX="5",  -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-23 14:40 pushed elf-calc-fresh-2: 125 rows (changed 623), seed 20678  -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-23 14:40 pushed elf-calc-fresh-3: 124 rows (changed 623), seed 68420 CUTPROB="25", WMAX="5",  -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-23 14:40 pushed elf-calc-fresh-4: 124 rows (changed 623), seed 88353  -> Kernel version 5 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-23 14:46 dataset: Upload unsuccessful: programs.txt
+11-23 14:46 dataset version ready (lastUpdated >= 20:38:45 UTC)
+11-23 14:46 pushed elf-calc-fresh-0: 125 rows (changed 623), seed 23660  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-23 14:46 pushed elf-calc-fresh-1: 125 rows (changed 623), seed 27362 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-23 14:46 pushed elf-calc-fresh-2: 125 rows (changed 623), seed 4195  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-23 14:46 pushed elf-calc-fresh-3: 124 rows (changed 623), seed 37230 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-23 14:46 pushed elf-calc-fresh-4: 124 rows (changed 623), seed 10621  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-23 14:46 no kernel pushed: snapshot not advanced
+11-23 15:03 kernels busy 5, free fresh slugs: 
+11-23 16:03 kernels busy 5, free fresh slugs: 
+11-23 17:03 kernels busy 5, free fresh slugs: 
+11-23 18:03 kernels busy 5, free fresh slugs: 
+11-23 19:03 kernels busy 5, free fresh slugs: 
+11-23 20:03 kernels busy 5, free fresh slugs: 
+11-23 21:03 kernels busy 5, free fresh slugs: 
+11-23 22:03 kernels busy 5, free fresh slugs: 
+11-23 23:03 kernels busy 5, free fresh slugs: 
+11-24 00:03 kernels busy 5, free fresh slugs: 
+11-24 01:05 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1124_0705 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-24 01:05 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1124_0705 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-24 01:05 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 01:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 01:05 dataset version ready (lastUpdated >= 07:03:45 UTC)
+11-24 01:05 pushed elf-calc-fresh-3: 70 rows (changed 13), seed 6271  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 01:06 pushed elf-calc-fresh-4: 70 rows (changed 13), seed 9260 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 01:06 no kernel pushed: snapshot not advanced
+11-24 02:03 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1124_0803 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-24 02:03 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1124_0803 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-24 02:03 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1124_0803 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-24 02:03 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-24 02:03 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 02:04 dataset version ready (lastUpdated >= 08:02:13 UTC)
+11-24 02:04 pushed elf-calc-fresh-0: 70 rows (changed 13), seed 49238  -> Kernel version 9 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-24 02:04 pushed elf-calc-fresh-1: 70 rows (changed 13), seed 64751 CUTPROB="25", WMAX="5",  -> Kernel version 8 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-24 02:04 pushed elf-calc-fresh-2: 70 rows (changed 13), seed 47551  -> Kernel version 8 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-24 02:04 pushed elf-calc-fresh-3: 70 rows (changed 13), seed 75245 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 02:04 pushed elf-calc-fresh-4: 70 rows (changed 13), seed 94168  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 03:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 03:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 03:05 dataset version ready (lastUpdated >= 09:03:40 UTC)
+11-24 03:06 pushed elf-calc-fresh-3: 70 rows (changed 1), seed 36450  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 03:06 pushed elf-calc-fresh-4: 70 rows (changed 1), seed 58147 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 03:06 no kernel pushed: snapshot not advanced
+11-24 04:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 04:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 04:05 dataset version ready (lastUpdated >= 10:03:02 UTC)
+11-24 04:05 pushed elf-calc-fresh-3: 70 rows (changed 1), seed 97610  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 04:05 pushed elf-calc-fresh-4: 70 rows (changed 1), seed 5168 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 04:05 no kernel pushed: snapshot not advanced
+11-24 05:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 05:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 05:05 dataset version ready (lastUpdated >= 11:03:46 UTC)
+11-24 05:05 pushed elf-calc-fresh-3: 70 rows (changed 5), seed 17474  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 05:05 pushed elf-calc-fresh-4: 70 rows (changed 5), seed 76412 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 05:05 no kernel pushed: snapshot not advanced
+11-24 06:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 06:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 06:05 dataset version ready (lastUpdated >= 12:03:48 UTC)
+11-24 06:05 pushed elf-calc-fresh-3: 70 rows (changed 6), seed 58945  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 06:05 pushed elf-calc-fresh-4: 70 rows (changed 6), seed 20821 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 06:05 no kernel pushed: snapshot not advanced
+11-24 07:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 07:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 07:05 dataset version ready (lastUpdated >= 13:03:45 UTC)
+11-24 07:05 pushed elf-calc-fresh-3: 70 rows (changed 7), seed 75839  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 07:05 pushed elf-calc-fresh-4: 70 rows (changed 7), seed 27019 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 07:05 no kernel pushed: snapshot not advanced
+11-24 08:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 08:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 08:05 dataset version ready (lastUpdated >= 14:03:52 UTC)
+11-24 08:05 pushed elf-calc-fresh-3: 70 rows (changed 10), seed 6614  -> Kernel version 7 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-24 08:05 pushed elf-calc-fresh-4: 70 rows (changed 10), seed 65275 CUTPROB="25", WMAX="5",  -> Kernel version 6 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-4
+11-24 09:03 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1124_1503 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-24 09:03 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1124_1503 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-24 09:03 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1124_1503 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-24 09:03 kernels busy 2, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2
+11-24 09:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 09:05 dataset version ready (lastUpdated >= 15:03:12 UTC)
+11-24 09:05 pushed elf-calc-fresh-0: 70 rows (changed 0), seed 77061  -> Kernel version 10 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-24 09:05 pushed elf-calc-fresh-1: 70 rows (changed 0), seed 8310 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 09:05 pushed elf-calc-fresh-2: 70 rows (changed 0), seed 9917  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 10:08 kernels busy 3, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2
+11-24 10:08 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 10:09 dataset version ready (lastUpdated >= 16:07:09 UTC)
+11-24 10:09 pushed elf-calc-fresh-1: 70 rows (changed 66), seed 3303  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 10:09 pushed elf-calc-fresh-2: 70 rows (changed 66), seed 92385 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 10:09 no kernel pushed: snapshot not advanced
+11-24 11:07 kernels busy 3, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2
+11-24 11:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 11:07 dataset version ready (lastUpdated >= 17:05:36 UTC)
+11-24 11:07 pushed elf-calc-fresh-1: 70 rows (changed 66), seed 12676  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 11:07 pushed elf-calc-fresh-2: 70 rows (changed 66), seed 85428 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 11:07 no kernel pushed: snapshot not advanced
+11-24 12:03 kernels busy 3, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2
+11-24 12:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 12:05 dataset version ready (lastUpdated >= 18:03:58 UTC)
+11-24 12:05 pushed elf-calc-fresh-1: 70 rows (changed 68), seed 75950  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 12:05 pushed elf-calc-fresh-2: 70 rows (changed 68), seed 3484 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 12:05 no kernel pushed: snapshot not advanced
+11-24 13:03 kernels busy 3, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2
+11-24 13:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 13:06 dataset version ready (lastUpdated >= 19:04:14 UTC)
+11-24 13:06 pushed elf-calc-fresh-1: 70 rows (changed 70), seed 15910  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 13:06 pushed elf-calc-fresh-2: 70 rows (changed 70), seed 43521 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 13:06 no kernel pushed: snapshot not advanced
+11-24 14:03 kernels busy 3, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2
+11-24 14:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 14:08 dataset version ready (lastUpdated >= 20:06:21 UTC)
+11-24 14:08 pushed elf-calc-fresh-1: 70 rows (changed 70), seed 10338  -> Kernel version 9 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-24 14:08 pushed elf-calc-fresh-2: 70 rows (changed 70), seed 52150 CUTPROB="25", WMAX="5",  -> Kernel version 9 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-24 15:03 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1124_2103 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-24 15:03 pulled elf-calc-fresh-4 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-4_1124_2103 : elf-calc-fresh-4.log lns out_fresh_lns.txt p.txt
+11-24 15:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 15:04 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 15:05 dataset version ready (lastUpdated >= 21:03:20 UTC)
+11-24 15:05 pushed elf-calc-fresh-3: 70 rows (changed 0), seed 67902  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 15:05 pushed elf-calc-fresh-4: 70 rows (changed 0), seed 78074 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 15:05 no kernel pushed: snapshot not advanced
+11-24 16:03 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1124_2203 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-24 16:03 kernels busy 2, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-3 elf-calc-fresh-4
+11-24 16:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 16:05 dataset version ready (lastUpdated >= 22:03:34 UTC)
+11-24 16:05 pushed elf-calc-fresh-0: 70 rows (changed 2), seed 15426  -> Kernel version 11 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-24 16:05 pushed elf-calc-fresh-3: 70 rows (changed 2), seed 56353 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 16:05 pushed elf-calc-fresh-4: 70 rows (changed 2), seed 23346  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 17:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 17:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 17:05 dataset version ready (lastUpdated >= 23:03:35 UTC)
+11-24 17:05 pushed elf-calc-fresh-3: 70 rows (changed 2), seed 34889  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 17:05 pushed elf-calc-fresh-4: 70 rows (changed 2), seed 57662 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 17:05 no kernel pushed: snapshot not advanced
+11-24 18:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 18:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 18:05 dataset version ready (lastUpdated >= 00:03:58 UTC)
+11-24 18:05 pushed elf-calc-fresh-3: 70 rows (changed 5), seed 3341  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 18:05 pushed elf-calc-fresh-4: 70 rows (changed 5), seed 36184 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 18:05 no kernel pushed: snapshot not advanced
+11-24 19:06 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 19:08 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 19:08 dataset version ready (lastUpdated >= 01:06:34 UTC)
+11-24 19:08 pushed elf-calc-fresh-3: 70 rows (changed 6), seed 68624  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 19:08 pushed elf-calc-fresh-4: 70 rows (changed 6), seed 41538 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 19:08 no kernel pushed: snapshot not advanced
+11-24 20:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 20:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 20:06 dataset version ready (lastUpdated >= 02:04:04 UTC)
+11-24 20:06 pushed elf-calc-fresh-3: 70 rows (changed 10), seed 96916  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 20:06 pushed elf-calc-fresh-4: 70 rows (changed 10), seed 79835 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 20:06 no kernel pushed: snapshot not advanced
+11-24 21:11 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1125_0311 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-24 21:12 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1125_0312 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-24 21:12 kernels busy 1, free fresh slugs: elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-24 21:18 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 21:18 dataset version ready (lastUpdated >= 03:16:27 UTC)
+11-24 21:18 pushed elf-calc-fresh-1: 70 rows (changed 35), seed 54334  -> Kernel version 10 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-24 21:18 pushed elf-calc-fresh-2: 70 rows (changed 35), seed 4938 CUTPROB="25", WMAX="5",  -> Kernel version 10 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-24 21:19 pushed elf-calc-fresh-3: 70 rows (changed 35), seed 22670  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 21:19 pushed elf-calc-fresh-4: 70 rows (changed 35), seed 16508 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-24 22:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-24 22:07 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-24 22:07 dataset version ready (lastUpdated >= 04:05:23 UTC)
+11-24 22:07 pushed elf-calc-fresh-3: 70 rows (changed 4), seed 55854  -> Kernel version 8 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-3
+11-24 22:07 pushed elf-calc-fresh-4: 70 rows (changed 4), seed 29754 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 13:27 pulled elf-calc-fresh-0 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-0_1125_1927 : elf-calc-fresh-0.log lns out_fresh_lns.txt p.txt
+11-25 13:27 pulled elf-calc-fresh-1 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-1_1125_1927 : elf-calc-fresh-1.log lns out_fresh_lns.txt p.txt
+11-25 13:28 pulled elf-calc-fresh-2 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-2_1125_1927 : elf-calc-fresh-2.log lns out_fresh_lns.txt p.txt
+11-25 13:28 pulled elf-calc-fresh-3 ("KernelWorkerStatus.COMPLETE") -> work\kaggle_out\elf-calc-fresh-3_1125_1928 : elf-calc-fresh-3.log lns out_fresh_lns.txt p.txt
+11-25 13:28 kernels busy 0, free fresh slugs: elf-calc-fresh-0 elf-calc-fresh-1 elf-calc-fresh-2 elf-calc-fresh-3 elf-calc-fresh-4
+11-25 13:32 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 13:33 dataset version ready (lastUpdated >= 19:31:00 UTC)
+11-25 13:33 pushed elf-calc-fresh-0: 70 rows (changed 75), seed 31272  -> Kernel version 12 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-0
+11-25 13:33 pushed elf-calc-fresh-1: 70 rows (changed 75), seed 85675 CUTPROB="25", WMAX="5",  -> Kernel version 11 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-1
+11-25 13:33 pushed elf-calc-fresh-2: 70 rows (changed 75), seed 64944  -> Kernel version 11 successfully pushed.  Please check progress at https://www.kaggle.com/code/shauryanadagoudra/elf-calc-fresh-2
+11-25 13:33 pushed elf-calc-fresh-3: 70 rows (changed 75), seed 61780 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 13:33 pushed elf-calc-fresh-4: 70 rows (changed 75), seed 73019  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 13:34 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-25 13:36 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 13:36 dataset version ready (lastUpdated >= 19:34:58 UTC)
+11-25 13:36 pushed elf-calc-fresh-3: 70 rows (changed 1), seed 31634  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 13:37 pushed elf-calc-fresh-4: 70 rows (changed 1), seed 2131 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 13:37 no kernel pushed: snapshot not advanced
+11-25 14:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-25 14:05 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 14:06 dataset version ready (lastUpdated >= 20:04:07 UTC)
+11-25 14:06 pushed elf-calc-fresh-3: 70 rows (changed 3), seed 13520  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 14:06 pushed elf-calc-fresh-4: 70 rows (changed 3), seed 64637 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 14:06 no kernel pushed: snapshot not advanced
+11-25 15:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-25 15:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 15:06 dataset version ready (lastUpdated >= 21:04:30 UTC)
+11-25 15:06 pushed elf-calc-fresh-3: 70 rows (changed 22), seed 99307  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 15:06 pushed elf-calc-fresh-4: 70 rows (changed 22), seed 70909 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 15:06 no kernel pushed: snapshot not advanced
+11-25 16:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-25 16:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 16:06 dataset version ready (lastUpdated >= 22:04:41 UTC)
+11-25 16:06 pushed elf-calc-fresh-3: 70 rows (changed 38), seed 41226  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 16:06 pushed elf-calc-fresh-4: 70 rows (changed 38), seed 47680 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 16:06 no kernel pushed: snapshot not advanced
+11-25 17:03 kernels busy 3, free fresh slugs: elf-calc-fresh-3 elf-calc-fresh-4
+11-25 17:06 dataset: Dataset version is being created. Please check progress at https://www.kaggle.com/datasets/shauryanadagoudra/elf-calc-search-inputs
+11-25 17:06 dataset version ready (lastUpdated >= 23:05:01 UTC)
+11-25 17:07 pushed elf-calc-fresh-3: 70 rows (changed 42), seed 20328  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 17:07 pushed elf-calc-fresh-4: 70 rows (changed 42), seed 94890 CUTPROB="25", WMAX="5",  -> Kernel push error: Maximum batch CPU session count of 5 reached.
+11-25 17:07 no kernel pushed: snapshot not advanced
